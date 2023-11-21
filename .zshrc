@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/home/pepos/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -100,10 +100,10 @@ source $ZSH/oh-my-zsh.sh
  alias zshconfig="nano ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
  alias aggiorna="sudo pkcon refresh && sudo pkcon -y update"
- alias config='/usr/bin/git --git-dir=/home/pepos/.dotfiles --work-tree=/home/pepos'
+ alias config='/usr/bin/git --git-dir=$HOME/.dotfiles --work-tree=/$HOME'
 
 
-export LD_LIBRARY_PATH=/home/pepos/thesis/z3/bin/
-export JAVA_HOME=/home/pepos/thesis/jdk1.8.0_311/
-export PATH=$PATH:/home/pepos/idea-IU-223.8214.52/bin
+export LD_LIBRARY_PATH=/$HOME/thesis/z3/bin/
+export JAVA_HOME=/$HOME/thesis/jdk1.8.0_311/
+export PATH=$PATH:/$HOME/idea-IU-223.8214.52/bin
 
