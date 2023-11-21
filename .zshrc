@@ -100,8 +100,10 @@ source $ZSH/oh-my-zsh.sh
  alias zshconfig="nano ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
  alias aggiorna="sudo pkcon refresh && sudo pkcon -y update"
+ alias config='/usr/bin/git --git-dir=/home/pepos/.dotfiles --work-tree=/home/pepos'
+
 
 export LD_LIBRARY_PATH=/home/pepos/thesis/z3/bin/
 export JAVA_HOME=/home/pepos/thesis/jdk1.8.0_311/
 export PATH=$PATH:/home/pepos/idea-IU-223.8214.52/bin
-alias config=/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME
+
