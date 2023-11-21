@@ -5,5 +5,6 @@
 - [Credential Manager]
 (https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git#git-credential-manager)
     - `config config credential.helper store`
-- Install more packages at once
+- Install more packages at once (already in install.sh)
 	- `sudo apt-get install -y $(cat pkglist)`
+- Run the `isntall.sh` file
