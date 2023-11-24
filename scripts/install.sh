@@ -4,3 +4,4 @@ chsh -s $(which zsh)
 
 echo 'log out and log in again to see the results';
 
+#infine passare i dotfiles con git

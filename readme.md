@@ -7,4 +7,4 @@
     - `config config credential.helper store`
 - Install more packages at once (already in install.sh)
 	- `sudo apt-get install -y $(cat pkglist)`
-- Run the `isntall.sh` file
+- Run the `install.sh` file
