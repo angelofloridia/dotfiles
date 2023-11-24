@@ -1,6 +1,15 @@
+echo "System updating..."
+sudo pkcon refresh && sudo pkcon -y update
+echo "Done."
+
+echo "Installing packages..."
 sudo apt-get install -y $(cat pkglist)
+echo "Done."
+
+echo "Installing ZSH"
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 chsh -s $(which zsh)
+echo "Done."
 
 echo 'log out and log in again to see the results';
 
