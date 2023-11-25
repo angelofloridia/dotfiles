@@ -30,34 +30,10 @@ Places Icons Auto-resize=false
 Places Icons Static Size=22
 
 [KPropertiesDialog]
-2 screens: Height=636
-2 screens: Width=457
-3 screens: Height=636
-3 screens: Width=457
 3440x1440 screen: Height=490
 3440x1440 screen: Width=420
-HDMI-A-0 HDMI-A-1 Height 1920x1080=588
-HDMI-A-0 HDMI-A-1 Height 1920x1080 HDMI-A-1=588
-HDMI-A-0 HDMI-A-1 Width 1920x1080=438
-HDMI-A-0 HDMI-A-1 Width 1920x1080 HDMI-A-1=438
-HDMI-A-1 HDMI-A-0 Height 1920x1080 HDMI-A-0=588
-HDMI-A-1 HDMI-A-0 Height 1920x1080 HDMI-A-1=616
-HDMI-A-1 HDMI-A-0 Width 1920x1080 HDMI-A-0=438
-HDMI-A-1 HDMI-A-0 Width 1920x1080 HDMI-A-1=438
-HDMI-A-1 Height 1920x1080=532
-HDMI-A-1 Width 1920x1080=438
 
 [MainWindow]
-DVI-D-0 XPosition 1920x1080=0
-DVI-D-0 YPosition 1920x1080=29
-HDMI-A-0 HDMI-A-1 DVI-D-0 Height 1920x1080=1021
-HDMI-A-0 HDMI-A-1 DVI-D-0 Width 1920x1080=1888
-HDMI-A-0 HDMI-A-1 DVI-D-0 XPosition 1920x1080=968
-HDMI-A-0 HDMI-A-1 DVI-D-0 YPosition 1920x1080=43
-HDMI-A-0 HDMI-A-1 Height 1920x1080=1021
-HDMI-A-0 HDMI-A-1 Width 1920x1080=936
-HDMI-A-0 HDMI-A-1 XPosition 1920x1080=1936
-HDMI-A-0 HDMI-A-1 YPosition 1920x1080=43
 MenuBar=Disabled
 ToolBarsMovable=Disabled
 
@@ -69,5 +45,4 @@ History=kate,ok
 Plugins=appimagethumbnail,audiothumbnail,blenderthumbnail,comicbookthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,svgthumbnail,textthumbnail
 
 [SettingsDialog]
-HDMI-A-0 HDMI-A-1 Height 1920x1080=438
-HDMI-A-0 HDMI-A-1 Width 1920x1080=589
+
