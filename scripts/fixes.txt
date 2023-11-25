@@ -1,0 +1,2 @@
+#for popping HD audio
+adding options snd-hda-intel power_save=0 to /etc/modprobe.d/alsa-info.conf
