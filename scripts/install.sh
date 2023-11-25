@@ -8,6 +8,7 @@ echo "Done."
 
 echo "Installing ZSH"
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+sleep 5
 chsh -s $(which zsh)
 echo "Done."
 

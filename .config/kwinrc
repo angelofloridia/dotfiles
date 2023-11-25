@@ -40,7 +40,7 @@ ActivitiesMode=0
 padding=20
 
 [Tiling][4f66d6c7-0d1d-525b-b7d1-18d0999f509d]
-tiles={"layoutDirection":"horizontal","tiles":[{"width":0.5409883720930233},{"layoutDirection":"vertical","tiles":[{"height":0.3645833333333333},{"height":0.6354166666666667}],"width":0.4590116279069767}]}
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.5409883720930233},{"layoutDirection":"vertical","tiles":[{"height":0.5097222222222223},{"height":0.4902777777777775}],"width":0.4590116279069767}]}
 
 [Tiling][afbed728-0645-56be-a1f1-506480ac00da]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}

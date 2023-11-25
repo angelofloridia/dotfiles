@@ -1,5 +1,4 @@
 zsh
-oh-my-zsh
 git
 htop
 grep
@@ -11,5 +10,4 @@ virtualbox-ext-pack
 virtualbox-dkms
 python3.10-venv
 gscan2pdf
-neofetch
 qt5-style-kvantum

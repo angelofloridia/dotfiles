@@ -1,5 +1,5 @@
 # Dotfiles
-- [Dotfiles: Best way to store in a bare git repository ](https://www.atlassian.com/git/tutorials/dotfiles)
+- [Dotfiles: Best way to store them: a bare git repository ](https://www.atlassian.com/git/tutorials/dotfiles)
     - [Video](https://www.youtube.com/watch?v=tBoLDpTWVOM)
 - [Theming with Kvantum](https://www.youtube.com/watch?v=R6C-RNhHMrE)
 - [KDE Configuration Files (DOTs)](https://github.com/shalva97/kde-configuration-files)
