@@ -10,3 +10,6 @@
 - Install more packages at once (already in install.sh)
 	- `sudo apt-get install -y $(cat pkglist)`
 - Run the `install.sh` file
+
+
+controllare disk partitioning
