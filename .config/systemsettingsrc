@@ -1,0 +1,74 @@
+[KFileDialog Settings]
+Recent Files[$e]=kwin-quarter-tiling.kwinscript,file:$HOME/windows_rules.kwinrule,file:$HOME/Downloads/kwin-quarter-tiling.kwinscript
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+HDMI-A-0 HDMI-A-1 Height 1920x1080=458
+HDMI-A-0 HDMI-A-1 Width 1920x1080=462
+
+[MainWindow]
+2 screens: Height=1038
+2 screens: Width=1900
+2 screens: XPosition=10
+2 screens: YPosition=30
+3 screens: Height=1050
+3 screens: Width=952
+3 screens: XPosition=10
+3 screens: YPosition=30
+3440x1440 screen: Height=1356
+3440x1440 screen: Width=1166
+3440x1440 screen: XPosition=1405
+3440x1440 screen: YPosition=247
+DVI-D-0 HDMI-A-0 HDMI-A-1=DVI-D-0
+DisplayPort-1=DisplayPort-1
+HDMI-A-0 HDMI-A-1=HDMI-A-1
+HDMI-A-0 HDMI-A-1 DVI-D-0 Height 1920x1080=1021
+HDMI-A-0 HDMI-A-1 DVI-D-0 Width 1920x1080=1888
+HDMI-A-0 HDMI-A-1 DVI-D-0 XPosition 1920x1080=2888
+HDMI-A-0 HDMI-A-1 DVI-D-0 YPosition 1920x1080=63
+HDMI-A-0 HDMI-A-1 Height 1920x1080=1001
+HDMI-A-0 HDMI-A-1 Height 1920x1080 HDMI-A-1=990
+HDMI-A-0 HDMI-A-1 Width 1920x1080=1020
+HDMI-A-0 HDMI-A-1 Width 1920x1080 HDMI-A-1=1020
+HDMI-A-0 HDMI-A-1 Window-Maximized 1920x1080=true
+HDMI-A-0 HDMI-A-1 XPosition 1920x1080=16
+HDMI-A-0 HDMI-A-1 XPosition 1920x1080 HDMI-A-1=896
+HDMI-A-0 HDMI-A-1 YPosition 1920x1080=47
+HDMI-A-0 HDMI-A-1 YPosition 1920x1080 HDMI-A-1=68
+HDMI-A-1=HDMI-A-1
+HDMI-A-1 HDMI-A-0=HDMI-A-1
+HDMI-A-1 HDMI-A-0 Height 1920x1080=1001
+HDMI-A-1 HDMI-A-0 Height 1920x1080 HDMI-A-0=1018
+HDMI-A-1 HDMI-A-0 Height 1920x1080 HDMI-A-1=1018
+HDMI-A-1 HDMI-A-0 Width 1920x1080=1888
+HDMI-A-1 HDMI-A-0 Width 1920x1080 HDMI-A-0=928
+HDMI-A-1 HDMI-A-0 Width 1920x1080 HDMI-A-1=1880
+HDMI-A-1 HDMI-A-0 XPosition 1920x1080=16
+HDMI-A-1 HDMI-A-0 XPosition 1920x1080 HDMI-A-0=2891
+HDMI-A-1 HDMI-A-0 XPosition 1920x1080 HDMI-A-1=20
+HDMI-A-1 HDMI-A-0 YPosition 1920x1080=63
+HDMI-A-1 HDMI-A-0 YPosition 1920x1080 HDMI-A-0=40
+HDMI-A-1 HDMI-A-0 YPosition 1920x1080 HDMI-A-1=52
+HDMI-A-1 Height 1920x1080=1001
+HDMI-A-1 Height 1920x1080 HDMI-A-1=1001
+HDMI-A-1 Width 1920x1080=936
+HDMI-A-1 Width 1920x1080 HDMI-A-1=1020
+HDMI-A-1 XPosition 1920x1080=16
+HDMI-A-1 XPosition 1920x1080 HDMI-A-1=900
+HDMI-A-1 YPosition 1920x1080=63
+HDMI-A-1 YPosition 1920x1080 HDMI-A-1=63
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABI4AAAVMAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Open-with settings]
+CompletionMode=1
+History=tele
+
+[UiSettings]
+ColorScheme=Default
+
+[systemsettings_sidebar_mode]
+HighlightNonDefaultSettings=false
