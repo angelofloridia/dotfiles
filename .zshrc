@@ -103,6 +103,7 @@ source $ZSH/oh-my-zsh.sh
  alias config='/usr/bin/git --git-dir=$HOME/.dotfiles --work-tree=/$HOME'
 
  #DOTFILES aliases and functions
+  alias cstatus='config status'
   alias cadd='config add'
   alias cpush='config push'
   function ccommit(){
