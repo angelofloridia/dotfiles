@@ -1,0 +1,108 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[0dcfa457-dffd-4b13-bd65-2eae72a5dd53]
+Description=Application settings for virtualbox machine
+blockcompositingrule=2
+clientmachine=localhost
+wmclass=virtualbox machine
+wmclassmatch=1
+
+[1]
+Description=Application settings for virtualbox machine
+blockcompositingrule=2
+clientmachine=localhost
+desktops=54a650b8-b5f6-4a53-8f74-5d5f592cb60d
+wmclass=virtualbox machine
+wmclassmatch=1
+
+[2]
+Description=Application settings for org.telegram.desktop
+desktops=54a650b8-b5f6-4a53-8f74-5d5f592cb60d
+desktopsrule=3
+position=1871,20
+positionrule=3
+size=1549,1400
+sizerule=1
+wmclass=\sorg.telegram.desktop
+wmclasscomplete=true
+wmclassmatch=1
+
+[27d7f5a2-226e-494e-9f19-99db16eac369]
+Description=Application settings for firefox
+desktops=612034ef-acf3-4c87-9d61-8ea87ea5068a
+desktopsrule=3
+wmclass=firefox
+wmclassmatch=1
+
+[3]
+Description=Application settings for thunderbird
+desktops=54a650b8-b5f6-4a53-8f74-5d5f592cb60d
+desktopsrule=3
+position=20,20
+positionrule=3
+size=1831,1400
+sizerule=3
+wmclass=thunderbird
+wmclassmatch=1
+
+[4]
+Description=Application settings for firefox
+desktops=612034ef-acf3-4c87-9d61-8ea87ea5068a
+desktopsrule=3
+position=20,20
+positionrule=3
+wmclass=firefox
+wmclassmatch=1
+
+[63b00aa8-4535-4916-ad29-41dc9a013be7]
+Description=Application settings for slack
+clientmachine=localhost
+desktops=54a650b8-b5f6-4a53-8f74-5d5f592cb60d
+desktopsrule=3
+wmclass=slack
+wmclassmatch=1
+
+[6bf738c2-2ebb-43df-9dc3-7d2d86d4f040]
+Description=Application settings for thunderbird
+clientmachine=localhost
+desktops=54a650b8-b5f6-4a53-8f74-5d5f592cb60d
+desktopsrule=3
+wmclass=mail thunderbird
+wmclasscomplete=true
+wmclassmatch=1
+
+[7cf23fea-e285-4928-bf2d-caed5166054b]
+Description=Application settings for telegramdesktop
+clientmachine=localhost
+desktops=54a650b8-b5f6-4a53-8f74-5d5f592cb60d
+desktopsrule=3
+wmclass=telegram-desktop telegramdesktop
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=4
+rules=1,2,3,4
+
+[afc18e52-6046-4a04-a0cc-810867f107bc]
+Description=Application settings for thunderbird
+desktops=54a650b8-b5f6-4a53-8f74-5d5f592cb60d
+desktopsrule=3
+wmclass=thunderbird
+wmclassmatch=1
+
+[cca11b53-2db1-4de7-86e3-75ceab56e344]
+Description=telegram
+desktops=54a650b8-b5f6-4a53-8f74-5d5f592cb60d
+desktopsrule=3
+wmclass=telegram
+wmclassmatch=1
+
+[d36865fa-800b-45c0-a21b-df0628ec4346]
+Description=Application settings for org.telegram.desktop
+desktops=54a650b8-b5f6-4a53-8f74-5d5f592cb60d
+desktopsrule=3
+wmclass=\sorg.telegram.desktop
+wmclasscomplete=true
+wmclassmatch=1

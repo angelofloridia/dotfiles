@@ -3,7 +3,7 @@ sudo pkcon refresh && sudo pkcon -y update
 echo "Done."
 
 echo "Installing packages..."
-sudo apt-get install -y $(cat pkglist)
+sudo apt-get install -y $(cat ~/scripts/pkglist)
 echo "Done."
 
 echo "Installing ZSH"
