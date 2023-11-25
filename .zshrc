@@ -107,7 +107,7 @@ source $ZSH/oh-my-zsh.sh
   # alias ccommit='config commit -a -m '"$0"'
   alias cpush='config push'
   function ccommit(){
-    config commit -a -m "$0"
+    config commit -a -m "$1"
   }
 
 
