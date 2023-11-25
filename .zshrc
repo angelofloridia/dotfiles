@@ -102,6 +102,14 @@ source $ZSH/oh-my-zsh.sh
  alias aggiorna="sudo pkcon refresh && sudo pkcon -y update"
  alias config='/usr/bin/git --git-dir=$HOME/.dotfiles --work-tree=/$HOME'
 
+ #DOTFILES aliases
+  alias cadd='config add'
+  # alias ccommit='config commit -a -m '"$0"'
+  alias cpush='config push'
+  function ccommit(){
+    config commit -a -m "$0"
+  }
+
 
 export LD_LIBRARY_PATH=/$HOME/thesis/z3/bin/
 export JAVA_HOME=/$HOME/thesis/jdk1.8.0_311/
