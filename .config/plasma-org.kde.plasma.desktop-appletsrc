@@ -91,7 +91,7 @@ DialogWidth=720
 
 [Containments][2][Applets][32][Configuration][General]
 currentDesktopSelected=ShowDesktop
-showOnlyCurrentScreen=true
+displayedText=Number
 wrapPage=true
 
 [Containments][2][Applets][33]
