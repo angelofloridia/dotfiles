@@ -9,7 +9,7 @@ DefaultProfile=
 
 [DetailsMode]
 IconSize=32
-PreviewSize=22
+PreviewSize=64
 
 [General]
 ConfirmClosingMultipleTabs=false

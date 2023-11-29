@@ -8,14 +8,6 @@ clientmachine=localhost
 wmclass=virtualbox machine
 wmclassmatch=1
 
-[1]
-Description=Application settings for virtualbox machine
-blockcompositingrule=2
-clientmachine=localhost
-desktops=54a650b8-b5f6-4a53-8f74-5d5f592cb60d
-wmclass=virtualbox machine
-wmclassmatch=1
-
 [2]
 Description=Application settings for org.telegram.desktop
 desktops=54a650b8-b5f6-4a53-8f74-5d5f592cb60d
@@ -82,8 +74,8 @@ wmclasscomplete=true
 wmclassmatch=1
 
 [General]
-count=4
-rules=1,2,3,4
+count=3
+rules=2,3,4
 
 [afc18e52-6046-4a04-a0cc-810867f107bc]
 Description=Application settings for thunderbird
