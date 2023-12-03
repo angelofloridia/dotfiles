@@ -13,7 +13,10 @@ Number=4
 Rows=1
 
 [Effect-overview]
-BorderActivate=3
+BorderActivate=3,7
+
+[Effect-windowview]
+BorderActivateAll=9
 
 [NightColor]
 LatitudeAuto=45.4722
@@ -37,10 +40,13 @@ ignoredDesktops=4
 ActivitiesMode=0
 
 [Tiling]
-padding=20
+padding=4
 
 [Tiling][4f66d6c7-0d1d-525b-b7d1-18d0999f509d]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.5409883720930233},{"layoutDirection":"vertical","tiles":[{"height":0.5097222222222223},{"height":0.4902777777777775}],"width":0.4590116279069767}]}
+
+[Tiling][5d20a032-457a-57db-a2af-f3118a3ea810]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][afbed728-0645-56be-a1f1-506480ac00da]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
@@ -55,6 +61,7 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Windows]
+ElectricBorders=1
 FocusStealingPreventionLevel=0
 NextFocusPrefersMouse=true
 RollOverDesktops=true
