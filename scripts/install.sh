@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "System updating..."
 sudo pkcon refresh && sudo pkcon -y update
 echo "Done."
