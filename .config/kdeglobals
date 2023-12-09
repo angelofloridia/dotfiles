@@ -148,7 +148,7 @@ shadeSortColumn=true
 widgetStyle=Breeze
 
 [Icons]
-Theme=YaruExtendedDark
+Theme=PlasmaXDark
 
 [KDE]
 AnimationDurationFactor=0.5
