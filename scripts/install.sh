@@ -25,7 +25,11 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 sleep 5
 chsh -s $(which zsh)
 echo "Done."
-
 echo 'log out and log in again to see the results';
+sleep 2
+echo "Installing Workaround for sleep bug on b550m"
+#https://www.reddit.com/r/gigabyte/comments/p5ewjn/b550i_pro_ax_f13_bios_sleep_issue_on_linux/
+sudo cp wakeUpWorkaround.service /etc/systemd/system/
+echo "Done installing workaround"
 
 #infine passare i dotfiles con git
