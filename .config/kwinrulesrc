@@ -9,6 +9,15 @@ wmclass=virtualbox machine
 wmclassmatch=1
 
 [1]
+Description=Application settings for telegramdesktop
+clientmachine=localhost
+desktops=54a650b8-b5f6-4a53-8f74-5d5f592cb60d
+desktopsrule=3
+wmclass=telegram-desktop telegramdesktop
+wmclasscomplete=true
+wmclassmatch=1
+
+[2]
 Description=Application settings for org.telegram.desktop
 desktops=54a650b8-b5f6-4a53-8f74-5d5f592cb60d
 desktopsrule=3
@@ -20,17 +29,6 @@ wmclass=\sorg.telegram.desktop
 wmclasscomplete=true
 wmclassmatch=1
 
-[2]
-Description=Application settings for thunderbird
-desktops=54a650b8-b5f6-4a53-8f74-5d5f592cb60d
-desktopsrule=3
-position=20,20
-positionrule=3
-size=1831,1400
-sizerule=3
-wmclass=thunderbird
-wmclassmatch=1
-
 [27d7f5a2-226e-494e-9f19-99db16eac369]
 Description=Application settings for firefox
 desktops=612034ef-acf3-4c87-9d61-8ea87ea5068a
@@ -39,13 +37,10 @@ wmclass=firefox
 wmclassmatch=1
 
 [3]
-Description=Application settings for firefox
-desktops=612034ef-acf3-4c87-9d61-8ea87ea5068a
+Description=Application settings for thunderbird
+desktops=54a650b8-b5f6-4a53-8f74-5d5f592cb60d
 desktopsrule=3
-position=20,20
-positionrule=3
-size=1831,1400
-wmclass=firefox
+wmclass=thunderbird
 wmclassmatch=1
 
 [4]
@@ -84,8 +79,8 @@ wmclasscomplete=true
 wmclassmatch=1
 
 [General]
-count=3
-rules=1,2,3
+count=4
+rules=1,2,3,4
 
 [afc18e52-6046-4a04-a0cc-810867f107bc]
 Description=Application settings for thunderbird
@@ -106,5 +101,16 @@ Description=Application settings for org.telegram.desktop
 desktops=54a650b8-b5f6-4a53-8f74-5d5f592cb60d
 desktopsrule=3
 wmclass=\sorg.telegram.desktop
+wmclasscomplete=true
+wmclassmatch=1
+
+[f289464a-a47f-411a-8021-dff03cb2e8e8]
+Description=Application settings for telegramdesktop
+clientmachine=localhost
+desktops=54a650b8-b5f6-4a53-8f74-5d5f592cb60d
+desktopsrule=3
+position=1722,4
+positionrule=3
+wmclass=telegram-desktop telegramdesktop
 wmclasscomplete=true
 wmclassmatch=1

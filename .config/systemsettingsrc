@@ -4,6 +4,8 @@ Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/
 detailViewIconSize=16
 
 [KPropertiesDialog]
+3440x1440 screen: Height=560
+3440x1440 screen: Width=467
 HDMI-A-0 HDMI-A-1 Height 1920x1080=458
 HDMI-A-0 HDMI-A-1 Width 1920x1080=462
 
@@ -18,8 +20,8 @@ HDMI-A-0 HDMI-A-1 Width 1920x1080=462
 3 screens: YPosition=30
 3440x1440 screen: Height=877
 3440x1440 screen: Width=1166
-3440x1440 screen: XPosition=605
-3440x1440 screen: YPosition=385
+3440x1440 screen: XPosition=644
+3440x1440 screen: YPosition=481
 DVI-D-0 HDMI-A-0 HDMI-A-1=DVI-D-0
 DisplayPort-0=DisplayPort-0
 DisplayPort-1=DisplayPort-1

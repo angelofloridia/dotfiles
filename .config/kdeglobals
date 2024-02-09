@@ -137,7 +137,7 @@ ForegroundVisited=0,188,212
 
 [DirSelect Dialog]
 DirSelectDialog Size=842,596
-History Items[$e]=file:///media/pepos/DATA/Downloads/acer,file:$HOME/Downloads/Orchis/Orchis-dark,file:$HOME/Downloads/Orchis,file:$HOME/Downloads/Orchis/Orchis-dark,file:$HOME/Downloads/La Saga Di Concetta Licata - Die Zeugin (1994)/VIDEO_TS,file:///media/pepos/nvme/Downloads,file:$HOME/thesis/jdk1.8.0_311,file:///media/pepos/nvme/Thesis,file:///media/pepos/9CC28833C2881424,file:///media/pepos/10DE97E02D261BFD/OneDrive - Politecnico di Torino/Thesis,file:///media/pepos/DATA,file:$HOME/Downloads
+History Items[$e]=file:$HOME/jellyfin/media,file:///media/pepos/DATA/Downloads/acer,file:$HOME/Downloads/Orchis/Orchis-dark,file:$HOME/Downloads/Orchis,file:$HOME/Downloads/Orchis/Orchis-dark,file:$HOME/Downloads/La Saga Di Concetta Licata - Die Zeugin (1994)/VIDEO_TS,file:///media/pepos/nvme/Downloads,file:$HOME/thesis/jdk1.8.0_311,file:///media/pepos/nvme/Thesis,file:///media/pepos/9CC28833C2881424,file:///media/pepos/10DE97E02D261BFD/OneDrive - Politecnico di Torino/Thesis,file:///media/pepos/DATA,file:$HOME/Downloads
 
 [General]
 BrowserApplication=userapp-Firefox-9NAME1.desktop
@@ -178,7 +178,7 @@ Sort directories first=true
 Sort hidden files last=false
 Sort reversed=true
 Speedbar Width=138
-View Style=DetailTree
+View Style=Simple
 
 [PreviewSettings]
 MaximumRemoteSize=0

@@ -1,3 +1,5 @@
+MenuBar=Disabled
+
 [$Version]
 update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display
 
@@ -8,7 +10,7 @@ PreviewSize=22
 DefaultProfile=
 
 [DetailsMode]
-PreviewSize=22
+PreviewSize=16
 
 [General]
 ConfirmClosingMultipleTabs=false
@@ -42,3 +44,7 @@ History=kate,ok
 
 [PreviewSettings]
 Plugins=appimagethumbnail,audiothumbnail,blenderthumbnail,comicbookthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,svgthumbnail,textthumbnail
+
+[ViewPropertiesDialog]
+3440x1440 screen: Height=494
+3440x1440 screen: Width=372

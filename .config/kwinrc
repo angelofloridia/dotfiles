@@ -45,8 +45,11 @@ padding=4
 [Tiling][4f66d6c7-0d1d-525b-b7d1-18d0999f509d]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.5409883720930233},{"layoutDirection":"vertical","tiles":[{"height":0.5097222222222223},{"height":0.4902777777777775}],"width":0.4590116279069767}]}
 
-[Tiling][5d20a032-457a-57db-a2af-f3118a3ea810]
+[Tiling][58ca410b-ce44-58d6-82b9-fefe44aba0e3]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][5d20a032-457a-57db-a2af-f3118a3ea810]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.58546511627907},{"layoutDirection":"vertical","tiles":[{"height":0.5},{"height":0.5}],"width":0.41453488372092995}]}
 
 [Tiling][afbed728-0645-56be-a1f1-506480ac00da]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}

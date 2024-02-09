@@ -18,25 +18,27 @@ detailViewIconSize=16
 2 screens: Width=422
 3 screens: Height=537
 3 screens: Width=422
+3440x1440 screen: Height=560
+3440x1440 screen: Width=550
 
 [PlasmaTransientsConfig]
-PreloadWeight=10
+PreloadWeight=0
 
 [PlasmaViews][Panel 2]
 alignment=132
 floating=0
 panelOpacity=2
-panelVisibility=2
+panelVisibility=1
 
 [PlasmaViews][Panel 2][Defaults]
 maxLength=2670
-minLength=1462
+minLength=1434
 offset=0
 thickness=30
 
 [PlasmaViews][Panel 2][Horizontal3440]
 maxLength=2670
-minLength=1462
+minLength=1434
 offset=0
 
 [PlasmaViews][Panel 28][Defaults]
